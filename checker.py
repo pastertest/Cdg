@@ -60,4 +60,4 @@ class all:
 		    "x-owa-sessionid": f"{CID}",
 		    "x-req-source": "Mini",
 		    "authorization": f"Bearer {token}",
-  
+		
